@@ -1,0 +1,225 @@
+/*------------------------------------------------------------------
+[Table of contents]
+
+2. Progress Bar
+7. Info Box
+
+-------------------------------------------------------------------*/
+
+/*------------------------------------------------------------------
+1. Bulleted List
+-------------------------------------------------------------------*/
+.bulleted-list{
+	padding: 0;
+	margin: 0;
+	list-style: none;
+	line-height: 20px;
+}
+.bulleted-list li{
+	padding-top: 5px;
+	padding-bottom: 5px;
+}
+.bulleted-list a{
+	position: relative;
+	z-index: 1;
+}
+.bulleted-list .material-icons{
+	vertical-align: middle;
+	margin-right: 5px;
+}
+.bulleted-list-50 li{
+	padding-top: 15px;
+	padding-bottom: 15px;
+}
+.bulleted-list-40 li{
+	padding-top: 10px;
+	padding-bottom: 10px;
+}
+.bulleted-list-type-2{
+	border-top: 1px solid;
+	border-top-color: #ebebeb;
+}
+.bulleted-list-type-2 li{
+	border-bottom: 1px solid;
+	border-bottom-color: #ebebeb;
+}
+.bulleted-list-type-3 li{
+	position: relative;
+}
+.bulleted-list-type-3 li:after{
+    position: absolute;
+    top: 0;
+    right: 0;
+    bottom: 0;
+    left: 0;
+    width: 40px;
+    border-bottom-width: 1px;
+    border-bottom-style: solid;
+    
+    border-bottom-color: #ebebeb;
+    content: '';	
+}
+
+/*------------------------------------------------------------------
+7. Info Box
+-------------------------------------------------------------------*/
+.vc_lpd_info_box .vc_lpd_info_box_icon-heading-left{
+	display: table-cell;
+	vertical-align: middle;
+}
+.vc_lpd_info_box .vc_lpd_info_box_header-heading-left{
+	display: table-cell;
+	vertical-align: middle;
+}
+
+.vc_lpd_info_box .vc_lpd_info_box_icon-heading-right{
+	display: table-cell;
+	vertical-align: middle;
+}
+.vc_lpd_info_box .vc_lpd_info_box_header-heading-right{
+	display: table-cell;
+	vertical-align: middle;
+	width: 100%;
+	text-align: right;
+}
+
+.vc_lpd_info_box .vc_lpd_info_box_icon-left{
+	display: table-cell;
+	vertical-align: top;
+}
+.vc_lpd_info_box .vc_lpd_info_box_icon-right{
+	display: table-cell;
+	vertical-align: top;
+}
+.vc_lpd_info_box .vc_lpd_info_box_block{
+	display: table-cell;
+	vertical-align: middle;
+}
+.vc_lpd_info_box h3{
+	margin: 0;
+}
+.vc_lpd_info_box .social-icon,
+.vc_lpd_info_box .material-icons{
+	vertical-align: middle;
+}
+.vc_lpd_info_box .social-icon{
+    -moz-osx-font-smoothing: grayscale;
+    direction: ltr;
+    display: inline-block;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: normal;
+    letter-spacing: normal;
+    line-height: 1;
+    text-transform: none;
+    white-space: nowrap;
+    word-wrap: normal;
+}
+.vc_lpd_info_box_icon-heading-left .vc_lpd_info_box_iconWrap{
+	margin-right: 15px;
+}
+.vc_lpd_info_box_icon-heading-right .vc_lpd_info_box_iconWrap{
+	margin-left: 15px;
+}
+.vc_lpd_info_box_icon-left .vc_lpd_info_box_iconWrap{
+	margin-right: 15px;
+}
+.vc_lpd_info_box_icon-right .vc_lpd_info_box_iconWrap{
+	margin-left: 15px;
+}
+
+.vc_lpd_info_box .vc_lpd_info_box_iconWrap{
+	text-align: center;
+	display: inline-block;
+}
+.vc_lpd_info_box-circle .vc_lpd_info_box_iconWrap{
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+.vc_lpd_info_box-circle.vc_lpd_info_box .social-icon,
+.vc_lpd_info_box-circle.vc_lpd_info_box .material-icons{
+	vertical-align: inherit;
+}
+.vc_lpd_info_box-square.vc_lpd_info_box .social-icon,
+.vc_lpd_info_box-square.vc_lpd_info_box .material-icons{
+	vertical-align: inherit;
+}
+.vc_lpd_info_box .vc_lpd_info_box_seperator{
+	display: inline-block;
+}
+.vc_lpd_info_box.vc_lpd_info_box-animated .vc_lpd_info_box_iconWrap{
+	overflow: hidden;
+	vertical-align: middle;
+	-webkit-transform: translateZ(0);
+	transform: translateZ(0);
+	-webkit-backface-visibility: hidden;
+	backface-visibility: hidden;
+}
+.vc_lpd_info_box.vc_lpd_info_box-animated .vc_lpd_info_box_iconWrap:before{
+	position: absolute;
+	top: 0;
+	left: 0;
+	display: block;
+	padding: 0;
+	width: 100%;
+	height: 100%;
+	vertical-align: middle;
+	opacity: 0;
+	-webkit-transform: scale(0);
+	transform: scale(0);
+	content: '';
+}
+.vc_lpd_info_box.vc_lpd_info_box-animated:hover .vc_lpd_info_box_iconWrap:before{
+    opacity: 1;
+    -webkit-transform: scale(1);
+    transform: scale(1);
+}
+.vc_lpd_info_box-circle .vc_lpd_info_box_iconWrap:before{
+	-webkit-border-radius: 50%;
+	-moz-border-radius: 50%;
+	border-radius: 50%;
+}
+.vc_lpd_info_box.vc_lpd_info_box-animated .vc_lpd_info_box_iconWrap span{
+	position: relative;
+}
+.vc_lpd_info_box .vc_lpd_info_box_seperator{
+	-webkit-transition: background 200ms ease-in-out;
+	-moz-transition: background 200ms ease-in-out;
+	-ms-transition: background 200ms ease-in-out;
+	-o-transition: background 200ms ease-in-out;
+	transition: background 200ms ease-in-out;
+}
+.vc_lpd_info_box .social-icon,
+.vc_lpd_info_box .material-icons{
+	-webkit-transition: color 200ms ease-in-out;
+	-moz-transition: color 200ms ease-in-out;
+	-ms-transition: color 200ms ease-in-out;
+	-o-transition: color 200ms ease-in-out;
+	transition: color 200ms ease-in-out;
+}
+.vc_lpd_info_box .vc_lpd_info_box_iconWrap{
+	-webkit-transition: background 200ms ease-in-out, color 200ms ease-in-out;
+	-moz-transition: background 200ms ease-in-out, color 200ms ease-in-out;
+	-ms-transition: background 200ms ease-in-out, color 200ms ease-in-out;
+	-o-transition: background 200ms ease-in-out, color 200ms ease-in-out;
+	transition: background 200ms ease-in-out, color 200ms ease-in-out;
+}
+.vc_lpd_info_box .vc_lpd_info_box_iconWrap:before{
+	-webkit-transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;
+	-moz-transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;
+	-ms-transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;
+	-o-transition: transform 200ms ease-out 0s, opacity 2000ms ease-out 0s;
+	transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;
+}
+.vc_lpd_info_box:hover .vc_lpd_info_box_iconWrap:before{
+	-webkit-transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;
+	-moz-transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;
+	-ms-transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;
+	-o-transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;
+	transition: transform 200ms ease-out 0s, opacity 200ms ease-out 0s;	
+}
+.vc_lpd_info_box-none [class^="social-icon-"]:before,
+.vc_lpd_info_box-none [class*=" social-icon-"]:before {
+	line-height: 1 !important;
+}

@@ -1,0 +1,1408 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: LPD VC Elements\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2016-06-16 17:05+0300\n"
+"PO-Revision-Date: 2016-06-16 17:05+0300\n"
+"Last-Translator: Michael M <hello@wpbakery.com>\n"
+"Language-Team: lidplussdesign\n"
+"Language: en\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Poedit-KeywordsList: __;_e;esc_attr__\n"
+"X-Poedit-Basepath: ../elements\n"
+"X-Generator: Poedit 1.8.8\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: accordion.php:147
+msgid "Accordion"
+msgstr ""
+
+#: accordion.php:151 blockquote.php:98 blockquote.php:166
+#: boxed_container.php:162 boxed_container.php:300 bulleted_list.php:114
+#: bulleted_list.php:197 button.php:123 carousel.php:121 counter.php:173
+#: google_map.php:110 heading.php:103 info_box.php:227 mini_table.php:132
+#: mini_table.php:214 posts_container.php:246 price_table.php:279
+#: price_table.php:426 progress_bar.php:147 simple_tabs.php:154 tabs.php:163
+#: testimonial.php:134 testimonial.php:247 underline_text.php:167
+#: underline_text.php:174
+msgid "Content"
+msgstr ""
+
+#: accordion.php:155 blockquote.php:141 boxed_container.php:190 button.php:142
+#: counter.php:329 heading.php:116 info_box.php:416 mini_table.php:189
+#: posts_container.php:284 price_table.php:322 progress_bar.php:222
+#: simple_tabs.php:160 tabs.php:169 testimonial.php:154 underline_text.php:213
+msgid "Use theme default font family?"
+msgstr ""
+
+#: accordion.php:157 blockquote.php:143 boxed_container.php:192
+#: boxed_container.php:266 button.php:137 button.php:144 carousel.php:144
+#: carousel.php:200 carousel.php:238 carousel.php:245 counter.php:331
+#: google_map.php:149 google_map.php:183 heading.php:118 info_box.php:261
+#: info_box.php:401 info_box.php:418 mini_table.php:177 mini_table.php:191
+#: posts_container.php:286 posts_container.php:348 posts_container.php:390
+#: posts_container.php:397 price_table.php:324 price_table.php:387
+#: price_table.php:442 progress_bar.php:224 simple_tabs.php:162 tabs.php:171
+#: testimonial.php:156 underline_text.php:215
+msgid "Yes"
+msgstr ""
+
+#: accordion.php:158 blockquote.php:144 boxed_container.php:193 button.php:145
+#: counter.php:332 heading.php:119 info_box.php:419 mini_table.php:192
+#: posts_container.php:287 price_table.php:325 progress_bar.php:225
+#: simple_tabs.php:163 tabs.php:172 testimonial.php:157 underline_text.php:216
+msgid "Use font family from the theme."
+msgstr ""
+
+#: accordion.php:162
+msgid "Panel Title"
+msgstr ""
+
+#: accordion.php:167 blockquote.php:153 boxed_container.php:202
+#: boxed_container.php:276 button.php:154 counter.php:206 counter.php:246
+#: heading.php:128 info_box.php:428 mini_table.php:201 posts_container.php:296
+#: posts_container.php:335 price_table.php:334 price_table.php:378
+#: price_table.php:397 price_table.php:453 progress_bar.php:234
+#: progress_bar.php:257 simple_tabs.php:172 tabs.php:181 testimonial.php:166
+#: underline_text.php:224
+msgid "Select font family."
+msgstr ""
+
+#: accordion.php:168 blockquote.php:154 boxed_container.php:203
+#: boxed_container.php:277 button.php:155 counter.php:207 counter.php:247
+#: heading.php:129 info_box.php:429 mini_table.php:202 posts_container.php:297
+#: posts_container.php:336 price_table.php:335 price_table.php:379
+#: price_table.php:398 price_table.php:454 progress_bar.php:235
+#: progress_bar.php:258 simple_tabs.php:173 tabs.php:182 testimonial.php:167
+#: underline_text.php:225
+msgid "Select font styling."
+msgstr ""
+
+#: accordion.php:179
+msgid "Panel Text Size"
+msgstr ""
+
+#: accordion.php:182 button.php:169 button.php:177 carousel.php:138
+#: heading.php:143 info_box.php:269 info_box.php:278 info_box.php:305
+#: info_box.php:314 info_box.php:331 info_box.php:340 info_box.php:376
+#: info_box.php:475 price_table.php:349 price_table.php:469 price_table.php:478
+#: simple_tabs.php:187 tabs.php:196 underline_text.php:239
+msgid "Value in pixels."
+msgstr ""
+
+#: accordion.php:187 counter.php:186 heading.php:148 price_table.php:354
+#: testimonial.php:147
+msgid "Title color"
+msgstr ""
+
+#: accordion.php:190 counter.php:189 info_box.php:451 posts_container.php:318
+#: testimonial.php:150
+msgid "Choose title color"
+msgstr ""
+
+#: accordion.php:195 counter.php:194
+msgid "Title hover color"
+msgstr ""
+
+#: accordion.php:198 counter.php:197 info_box.php:459 posts_container.php:326
+msgid "Choose title hover color"
+msgstr ""
+
+#: accordion.php:203 counter.php:282 price_table.php:301 simple_tabs.php:224
+msgid "Border color"
+msgstr ""
+
+#: accordion.php:206 counter.php:285 posts_container.php:414
+#: price_table.php:304 simple_tabs.php:227 testimonial.php:195
+#: testimonial.php:242
+msgid "Choose border color"
+msgstr ""
+
+#: accordion.php:210
+msgid "Disable toggle effect?"
+msgstr ""
+
+#: accordion.php:212
+msgid "disable"
+msgstr ""
+
+#: accordion.php:213
+msgid "Disable toggle effect."
+msgstr ""
+
+#: accordion.php:218 blockquote.php:181 boxed_container.php:307
+#: bulleted_list.php:205 button.php:235 carousel.php:259 counter.php:337
+#: google_map.php:205 heading.php:187 info_box.php:503 mini_table.php:222
+#: posts_container.php:443 price_table.php:518 progress_bar.php:269
+#: simple_tabs.php:232 tabs.php:249 testimonial.php:255 underline_text.php:244
+msgid "Css"
+msgstr ""
+
+#: accordion.php:220 blockquote.php:183 boxed_container.php:309
+#: bulleted_list.php:207 button.php:237 carousel.php:261 counter.php:339
+#: google_map.php:207 heading.php:189 info_box.php:505 mini_table.php:224
+#: posts_container.php:445 price_table.php:520 progress_bar.php:271
+#: simple_tabs.php:234 tabs.php:251 testimonial.php:257 underline_text.php:246
+msgid "Design options"
+msgstr ""
+
+#: accordion.php:231
+msgid "Section 1"
+msgstr ""
+
+#: accordion.php:232
+msgid "Section 2"
+msgstr ""
+
+#: accordion.php:240
+msgid "Panel"
+msgstr ""
+
+#: accordion.php:248 boxed_container.php:184 counter.php:179 heading.php:109
+#: heading.php:123 info_box.php:408 posts_container.php:291 price_table.php:316
+#: price_table.php:329 progress_bar.php:229 simple_tabs.php:262 tabs.php:279
+#: testimonial.php:140
+msgid "Title"
+msgstr ""
+
+#: accordion.php:250 simple_tabs.php:264 tabs.php:281
+msgid "Enter title of tab."
+msgstr ""
+
+#: accordion.php:254
+msgid "Panel ID"
+msgstr ""
+
+#: blockquote.php:95
+msgid "Blockquote"
+msgstr ""
+
+#: blockquote.php:105
+msgid "Top Border Color"
+msgstr ""
+
+#: blockquote.php:113 boxed_container.php:169 posts_container.php:403
+msgid "Background Color"
+msgstr ""
+
+#: blockquote.php:121 boxed_container.php:177 mini_table.php:162
+#: posts_container.php:411
+msgid "Border Color"
+msgstr ""
+
+#: blockquote.php:128
+msgid "Cite"
+msgstr ""
+
+#: blockquote.php:135
+msgid "Cite Color"
+msgstr ""
+
+#: blockquote.php:148
+msgid "Cite Font"
+msgstr ""
+
+#: blockquote.php:174
+msgid "Content Color"
+msgstr ""
+
+#: boxed_container.php:159
+msgid "Boxed Container"
+msgstr ""
+
+#: boxed_container.php:197 counter.php:201 info_box.php:423
+msgid "Title Font"
+msgstr ""
+
+#: boxed_container.php:214 info_box.php:440 posts_container.php:307
+msgid "Title Font Size"
+msgstr ""
+
+#: boxed_container.php:226 info_box.php:448 posts_container.php:315
+msgid "Title Color"
+msgstr ""
+
+#: boxed_container.php:233
+msgid "Character"
+msgstr ""
+
+#: boxed_container.php:236
+msgid "Use one symbol."
+msgstr ""
+
+#: boxed_container.php:242
+msgid "Character Color"
+msgstr ""
+
+#: boxed_container.php:250
+msgid "Character Background"
+msgstr ""
+
+#: boxed_container.php:258
+msgid "Character Hover Background"
+msgstr ""
+
+#: boxed_container.php:264
+msgid "Use theme default font family for character?"
+msgstr ""
+
+#: boxed_container.php:267
+msgid "Use font family from the theme character."
+msgstr ""
+
+#: boxed_container.php:271
+msgid "Character Font"
+msgstr ""
+
+#: boxed_container.php:288
+msgid "Character Location"
+msgstr ""
+
+#: boxed_container.php:291 button.php:227 carousel.php:154 carousel.php:210
+#: info_box.php:251
+msgid "Left"
+msgstr ""
+
+#: boxed_container.php:292 button.php:228 carousel.php:156 carousel.php:212
+#: info_box.php:252
+msgid "Right"
+msgstr ""
+
+#: boxed_container.php:294
+msgid "Select character location."
+msgstr ""
+
+#: bulleted_list.php:111
+msgid "Bulleted List"
+msgstr ""
+
+#: bulleted_list.php:120 button.php:188 price_table.php:491
+msgid "Text color"
+msgstr ""
+
+#: bulleted_list.php:123 button.php:191 price_table.php:494 simple_tabs.php:195
+msgid "Choose text color"
+msgstr ""
+
+#: bulleted_list.php:128
+msgid "Link color"
+msgstr ""
+
+#: bulleted_list.php:131 button.php:199 info_box.php:348 price_table.php:503
+msgid "Choose link color"
+msgstr ""
+
+#: bulleted_list.php:136
+msgid "Link hover color"
+msgstr ""
+
+#: bulleted_list.php:139 button.php:207 info_box.php:356 price_table.php:512
+msgid "Choose link hover color"
+msgstr ""
+
+#: bulleted_list.php:144 info_box.php:266
+msgid "Line Height"
+msgstr ""
+
+#: bulleted_list.php:148
+msgid "30px"
+msgstr ""
+
+#: bulleted_list.php:149
+msgid "40px"
+msgstr ""
+
+#: bulleted_list.php:150
+msgid "50px"
+msgstr ""
+
+#: bulleted_list.php:156
+msgid "List Type"
+msgstr ""
+
+#: bulleted_list.php:160 mini_table.php:141
+msgid "Type 1"
+msgstr ""
+
+#: bulleted_list.php:161 mini_table.php:142
+msgid "Type 2"
+msgstr ""
+
+#: bulleted_list.php:162
+msgid "Type 3"
+msgstr ""
+
+#: bulleted_list.php:168
+msgid "Bottom Border"
+msgstr ""
+
+#: bulleted_list.php:171
+msgid "Choose bottom border color"
+msgstr ""
+
+#: bulleted_list.php:180 counter.php:258 info_box.php:320 tabs.php:291
+#: testimonial.php:207
+msgid "Icon"
+msgstr ""
+
+#: bulleted_list.php:183 heading.php:167 info_box.php:323 tabs.php:294
+#: testimonial.php:210
+msgid ""
+"Material icons html code or icon name, find full list of icons on <a "
+"href='https://design.google.com/icons/'>link..</a>, example: 'check' or "
+"'&amp;#xE5CA;'"
+msgstr ""
+
+#: bulleted_list.php:188 counter.php:266 heading.php:172 info_box.php:345
+#: tabs.php:233 testimonial.php:215
+msgid "Icon color"
+msgstr ""
+
+#: bulleted_list.php:191 counter.php:269 heading.php:175 tabs.php:204
+#: tabs.php:220 tabs.php:236 testimonial.php:218
+msgid "Choose icon color"
+msgstr ""
+
+#: bulleted_list.php:200
+msgid ""
+"Place list item on each new line, example: 'list item one|http://themeforest."
+"net/'"
+msgstr ""
+
+#: button.php:120 price_table.php:436 price_table.php:444 price_table.php:461
+#: price_table.php:470 price_table.php:479 price_table.php:486
+#: price_table.php:495 price_table.php:504 price_table.php:513
+msgid "Button"
+msgstr ""
+
+#: button.php:129 price_table.php:433
+msgid "Text"
+msgstr ""
+
+#: button.php:131
+msgid "Text on the button"
+msgstr ""
+
+#: button.php:135 info_box.php:399 price_table.php:440
+msgid "Use overlay effect?"
+msgstr ""
+
+#: button.php:138 price_table.php:443
+msgid "Use button overlay effect."
+msgstr ""
+
+#: button.php:149 price_table.php:448 testimonial.php:161
+msgid "Text Font"
+msgstr ""
+
+#: button.php:166 price_table.php:466
+msgid "Text font size"
+msgstr ""
+
+#: button.php:174 price_table.php:475
+msgid "Text letter spacing"
+msgstr ""
+
+#: button.php:181 price_table.php:483 underline_text.php:180
+msgid "URL (Link)"
+msgstr ""
+
+#: button.php:183 price_table.php:485
+msgid "Add link to button."
+msgstr ""
+
+#: button.php:196 price_table.php:500
+msgid "Button color"
+msgstr ""
+
+#: button.php:204 price_table.php:509
+msgid "Button hover color"
+msgstr ""
+
+#: button.php:211
+msgid "Type"
+msgstr ""
+
+#: button.php:213
+msgid "Select button type."
+msgstr ""
+
+#: button.php:215
+msgid "Large"
+msgstr ""
+
+#: button.php:216
+msgid "Medium"
+msgstr ""
+
+#: button.php:217
+msgid "Small"
+msgstr ""
+
+#: button.php:222
+msgid "Alignment"
+msgstr ""
+
+#: button.php:224
+msgid "Select button alignment."
+msgstr ""
+
+#: button.php:226
+msgid "Inline"
+msgstr ""
+
+#: button.php:229 carousel.php:155 carousel.php:211 info_box.php:250
+msgid "Center"
+msgstr ""
+
+#: carousel.php:118
+msgid "Carousel"
+msgstr ""
+
+#: carousel.php:128
+msgid "Number of Columns"
+msgstr ""
+
+#: carousel.php:135
+msgid "Column Margin"
+msgstr ""
+
+#: carousel.php:142
+msgid "Use carousel navigation?"
+msgstr ""
+
+#: carousel.php:145
+msgid "Use carousel navigation."
+msgstr ""
+
+#: carousel.php:150 carousel.php:206
+msgid "Location"
+msgstr ""
+
+#: carousel.php:163
+msgid "Arrow color"
+msgstr ""
+
+#: carousel.php:166
+msgid "Choose arrow color"
+msgstr ""
+
+#: carousel.php:172
+msgid "Arrow hover color"
+msgstr ""
+
+#: carousel.php:175
+msgid "Choose arrow hover color"
+msgstr ""
+
+#: carousel.php:181 simple_tabs.php:216
+msgid "Navigation color"
+msgstr ""
+
+#: carousel.php:184 simple_tabs.php:219
+msgid "Choose navigation color"
+msgstr ""
+
+#: carousel.php:190
+msgid "Navigation hover color"
+msgstr ""
+
+#: carousel.php:193
+msgid "Choose navigation hover color"
+msgstr ""
+
+#: carousel.php:198
+msgid "Use carousel pagination?"
+msgstr ""
+
+#: carousel.php:201
+msgid "Use carousel pagination."
+msgstr ""
+
+#: carousel.php:219
+msgid "Pagination color"
+msgstr ""
+
+#: carousel.php:222
+msgid "Choose pagination color"
+msgstr ""
+
+#: carousel.php:228
+msgid "Pagination hover color"
+msgstr ""
+
+#: carousel.php:231
+msgid "Choose pagination hover color"
+msgstr ""
+
+#: carousel.php:236
+msgid "Activate loop?"
+msgstr ""
+
+#: carousel.php:239
+msgid "Restart the slider automatically as it passes the last slide."
+msgstr ""
+
+#: carousel.php:243
+msgid "Activate Autoplay?"
+msgstr ""
+
+#: carousel.php:246
+msgid "Use autoplay."
+msgstr ""
+
+#: carousel.php:251
+msgid "Autoplay Timeout"
+msgstr ""
+
+#: carousel.php:254
+msgid "Value in (ms) millisecond."
+msgstr ""
+
+#: counter.php:170 counter.php:218 progress_bar.php:252
+msgid "Counter"
+msgstr ""
+
+#: counter.php:221
+msgid "Counter value."
+msgstr ""
+
+#: counter.php:226
+msgid "Counter color"
+msgstr ""
+
+#: counter.php:229 counter.php:237
+msgid "Choose counter color"
+msgstr ""
+
+#: counter.php:234
+msgid "Counter hover color"
+msgstr ""
+
+#: counter.php:241
+msgid "Counter Font"
+msgstr ""
+
+#: counter.php:261
+msgid ""
+"Material icons html code or icon name, find full list of icons on <a "
+"href='https://design.google.com/icons/'>link..</a>, example: 'check' or "
+"'&amp;#xE5CA;'."
+msgstr ""
+
+#: counter.php:274 info_box.php:353 info_box.php:391
+msgid "Icon hover color"
+msgstr ""
+
+#: counter.php:277
+msgid "Choose icon hover color"
+msgstr ""
+
+#: counter.php:290
+msgid "Border hover color"
+msgstr ""
+
+#: counter.php:293
+msgid "Choose border hover color"
+msgstr ""
+
+#: counter.php:298
+msgid "Background color"
+msgstr ""
+
+#: counter.php:301 info_box.php:385 posts_container.php:406
+msgid "Choose background color"
+msgstr ""
+
+#: counter.php:306
+msgid "Background hover color"
+msgstr ""
+
+#: counter.php:309 info_box.php:394
+msgid "Choose background hover color"
+msgstr ""
+
+#: counter.php:314
+msgid "Padding Top"
+msgstr ""
+
+#: counter.php:317 counter.php:325
+msgid "Value in pixels"
+msgstr ""
+
+#: counter.php:322
+msgid "Padding Bottom"
+msgstr ""
+
+#: google_map.php:107
+msgid "Google Map"
+msgstr ""
+
+#: google_map.php:116
+msgid "Map Height"
+msgstr ""
+
+#: google_map.php:119
+msgid "Choose map height, value in pixels."
+msgstr ""
+
+#: google_map.php:124
+msgid "Latitude"
+msgstr ""
+
+#: google_map.php:127 google_map.php:135
+msgid ""
+"Find Latitude & Longitude of your location on <a href='http://www.latlong."
+"net/'>http://www.latlong.net/</a>."
+msgstr ""
+
+#: google_map.php:132
+msgid "Longitude"
+msgstr ""
+
+#: google_map.php:139
+msgid "Map Zoom"
+msgstr ""
+
+#: google_map.php:142
+msgid "15 - Default"
+msgstr ""
+
+#: google_map.php:147
+msgid "Use map caption?"
+msgstr ""
+
+#: google_map.php:150
+msgid "Use map caption."
+msgstr ""
+
+#: google_map.php:156
+msgid "Caption"
+msgstr ""
+
+#: google_map.php:164
+msgid "Caption Bottom Margin"
+msgstr ""
+
+#: google_map.php:167
+msgid "Choose bottom margin, value in pixels."
+msgstr ""
+
+#: google_map.php:173
+msgid "Caption Right Margin"
+msgstr ""
+
+#: google_map.php:176
+msgid "Choose left margin, value in pixels."
+msgstr ""
+
+#: google_map.php:181
+msgid "Use custom marker?"
+msgstr ""
+
+#: google_map.php:184
+msgid "Use custom marker."
+msgstr ""
+
+#: google_map.php:188
+msgid "Custom Marker"
+msgstr ""
+
+#: google_map.php:191 testimonial.php:202
+msgid "Select image from media library."
+msgstr ""
+
+#: google_map.php:197
+msgid "Google Map Styles JSON"
+msgstr ""
+
+#: google_map.php:200
+msgid ""
+"Find more information how to create google map styles on <a href='https://"
+"developers.google.com/maps/documentation/javascript/styling'>Styles Map</a> "
+"documentation, code example: '[{ featureType: \"road\",elementType: "
+"\"geometry\",stylers: [{ lightness: 100 },{ visibility: \"simplified\" }]}]'."
+msgstr ""
+
+#: heading.php:100
+msgid "Heading"
+msgstr ""
+
+#: heading.php:112
+msgid "Add text to heading."
+msgstr ""
+
+#: heading.php:140 price_table.php:346
+msgid "Title font size"
+msgstr ""
+
+#: heading.php:151 price_table.php:357
+msgid "Choose title color."
+msgstr ""
+
+#: heading.php:156
+msgid "Separate line color"
+msgstr ""
+
+#: heading.php:159 info_box.php:287
+msgid "Choose line color"
+msgstr ""
+
+#: heading.php:164
+msgid "List Icon"
+msgstr ""
+
+#: heading.php:179
+msgid "Element width"
+msgstr ""
+
+#: heading.php:182
+msgid "Separator element width in percents."
+msgstr ""
+
+#: info_box.php:224
+msgid "Info Box"
+msgstr ""
+
+#: info_box.php:233
+msgid "Box Style"
+msgstr ""
+
+#: info_box.php:236
+msgid "Icon at Left with heading"
+msgstr ""
+
+#: info_box.php:237
+msgid "Icon at Right with heading"
+msgstr ""
+
+#: info_box.php:238
+msgid "Icon at Left"
+msgstr ""
+
+#: info_box.php:239
+msgid "Icon at Right"
+msgstr ""
+
+#: info_box.php:240
+msgid "Icon at Top"
+msgstr ""
+
+#: info_box.php:242
+msgid ""
+"Select icon position. Icon box style will be changed according to the icon "
+"position."
+msgstr ""
+
+#: info_box.php:247
+msgid "Box Align"
+msgstr ""
+
+#: info_box.php:254
+msgid "Select content alignment."
+msgstr ""
+
+#: info_box.php:259
+msgid "Use seperator line?"
+msgstr ""
+
+#: info_box.php:275
+msgid "Line Width"
+msgstr ""
+
+#: info_box.php:284
+msgid "Line Color"
+msgstr ""
+
+#: info_box.php:293
+msgid "Line Hover Color"
+msgstr ""
+
+#: info_box.php:296
+msgid "Choose line hover color"
+msgstr ""
+
+#: info_box.php:302
+msgid "Seperator Margin Top"
+msgstr ""
+
+#: info_box.php:311
+msgid "Seperator Margin Bottom"
+msgstr ""
+
+#: info_box.php:328
+msgid "Size of Icon"
+msgstr ""
+
+#: info_box.php:332
+msgid "How big would you like it? value in pixels."
+msgstr ""
+
+#: info_box.php:337
+msgid "Icon Margin Bottom"
+msgstr ""
+
+#: info_box.php:361
+msgid "Icon Style"
+msgstr ""
+
+#: info_box.php:364
+msgid "Simple"
+msgstr ""
+
+#: info_box.php:365
+msgid "Circle Background"
+msgstr ""
+
+#: info_box.php:366
+msgid "Square Background"
+msgstr ""
+
+#: info_box.php:368
+msgid "Choose your icons style."
+msgstr ""
+
+#: info_box.php:373
+msgid "Background Size"
+msgstr ""
+
+#: info_box.php:382
+msgid "Icon Background Color"
+msgstr ""
+
+#: info_box.php:402
+msgid "Use background overlay effect."
+msgstr ""
+
+#: info_box.php:412
+msgid "Provide the title for this icon box."
+msgstr ""
+
+#: info_box.php:443
+msgid "Choose title font size, value in pixels."
+msgstr ""
+
+#: info_box.php:456 posts_container.php:323
+msgid "Title Hover Color"
+msgstr ""
+
+#: info_box.php:464
+msgid "Description"
+msgstr ""
+
+#: info_box.php:467
+msgid "Provide the description for this icon box."
+msgstr ""
+
+#: info_box.php:472
+msgid "Description Margin Top"
+msgstr ""
+
+#: info_box.php:480
+msgid "Apply link to:"
+msgstr ""
+
+#: info_box.php:483
+msgid "No Link"
+msgstr ""
+
+#: info_box.php:484
+msgid "Box Title"
+msgstr ""
+
+#: info_box.php:486
+msgid "Select whether to use color for icon or not."
+msgstr ""
+
+#: info_box.php:491
+msgid "Add Link"
+msgstr ""
+
+#: info_box.php:494
+msgid ""
+"Add a custom link or select existing page. You can remove existing link as "
+"well."
+msgstr ""
+
+#: mini_table.php:129
+msgid "Mini Table"
+msgstr ""
+
+#: mini_table.php:137
+msgid "Table Type"
+msgstr ""
+
+#: mini_table.php:139
+msgid "Select table type."
+msgstr ""
+
+#: mini_table.php:148
+msgid "Primary Color"
+msgstr ""
+
+#: mini_table.php:155
+msgid "Secondary Color"
+msgstr ""
+
+#: mini_table.php:169
+msgid "Heading Cell Color"
+msgstr ""
+
+#: mini_table.php:175
+msgid "Use \"bold\" font weight for heading cell?"
+msgstr ""
+
+#: mini_table.php:178
+msgid "Use \"bold\" font weight for heading cell."
+msgstr ""
+
+#: mini_table.php:183
+msgid "Standard Cell Color"
+msgstr ""
+
+#: mini_table.php:196
+msgid "Table Font"
+msgstr ""
+
+#: mini_table.php:217
+msgid "Place item on each new line, example: 'Monday - Friday|8am to 5pm'"
+msgstr ""
+
+#: posts_container.php:243
+msgid "Posts Container"
+msgstr ""
+
+#: posts_container.php:260
+msgid "Number of colums"
+msgstr ""
+
+#: posts_container.php:271
+msgid "Number of Post"
+msgstr ""
+
+#: posts_container.php:274
+msgid "Enter number of post to display"
+msgstr ""
+
+#: posts_container.php:278
+msgid "Post types"
+msgstr ""
+
+#: posts_container.php:280
+msgid "Select source for container."
+msgstr ""
+
+#: posts_container.php:309
+msgid "Enter title font size, the value in pixels."
+msgstr ""
+
+#: posts_container.php:330
+msgid "Meta"
+msgstr ""
+
+#: posts_container.php:346
+msgid "Do you want to enable post meta?"
+msgstr ""
+
+#: posts_container.php:349
+msgid "Enable if you want to show post meta."
+msgstr ""
+
+#: posts_container.php:353
+msgid "Meta Font Size"
+msgstr ""
+
+#: posts_container.php:355
+msgid "Enter meta font size, the value in pixels."
+msgstr ""
+
+#: posts_container.php:365
+msgid "Meta Color"
+msgstr ""
+
+#: posts_container.php:368
+msgid "Choose meta color"
+msgstr ""
+
+#: posts_container.php:377
+msgid "Meta Hover Color"
+msgstr ""
+
+#: posts_container.php:380
+msgid "Choose meta hover color"
+msgstr ""
+
+#: posts_container.php:388
+msgid "Do you want to enable image replacement?"
+msgstr ""
+
+#: posts_container.php:391
+msgid "Enable if you want to show image replacement."
+msgstr ""
+
+#: posts_container.php:395
+msgid "Do you want to disable image & image replacement?"
+msgstr ""
+
+#: posts_container.php:398
+msgid "Use if you want to disable image & image replacement."
+msgstr ""
+
+#: posts_container.php:419
+msgid "Thumbnail Overlay Background"
+msgstr ""
+
+#: posts_container.php:422
+msgid "Choose thumbnail overlay background"
+msgstr ""
+
+#: posts_container.php:427
+msgid "Thumbnail Button Color"
+msgstr ""
+
+#: posts_container.php:430
+msgid "Choose thumbnail button color"
+msgstr ""
+
+#: posts_container.php:435
+msgid "Thumbnail Button Hover Color"
+msgstr ""
+
+#: posts_container.php:438
+msgid "Choose thumbnail button hover color"
+msgstr ""
+
+#: price_table.php:276
+msgid "Price Table"
+msgstr ""
+
+#: price_table.php:285
+msgid "Primary background color"
+msgstr ""
+
+#: price_table.php:288
+msgid "Choose primary background color"
+msgstr ""
+
+#: price_table.php:293
+msgid "Secondary background color"
+msgstr ""
+
+#: price_table.php:296
+msgid "Choose secondary background color"
+msgstr ""
+
+#: price_table.php:309
+msgid "List Border color"
+msgstr ""
+
+#: price_table.php:312
+msgid "Choose list border color"
+msgstr ""
+
+#: price_table.php:318
+msgid "The Package"
+msgstr ""
+
+#: price_table.php:361
+msgid "Price label"
+msgstr ""
+
+#: price_table.php:363
+msgid "Per Month"
+msgstr ""
+
+#: price_table.php:367
+msgid "Price value"
+msgstr ""
+
+#: price_table.php:373
+msgid "Price Label Font"
+msgstr ""
+
+#: price_table.php:385
+msgid "Use theme default font family for price?"
+msgstr ""
+
+#: price_table.php:388
+msgid "Use font family from the theme for price."
+msgstr ""
+
+#: price_table.php:392
+msgid "Price Font"
+msgstr ""
+
+#: price_table.php:409
+msgid "Badge background color"
+msgstr ""
+
+#: price_table.php:412
+msgid "Choose badge background color"
+msgstr ""
+
+#: price_table.php:417
+msgid "Badge text color"
+msgstr ""
+
+#: price_table.php:420
+msgid "Choose badge text color"
+msgstr ""
+
+#: price_table.php:429
+msgid ""
+"Place list item on each new line, example: 'list item one|http://themeforest."
+"net/ or list item one|http://themeforest.net/|del"
+msgstr ""
+
+#: price_table.php:435
+msgid "Read More"
+msgstr ""
+
+#: progress_bar.php:144
+msgid "Progress Bar"
+msgstr ""
+
+#: progress_bar.php:152
+msgid "Values"
+msgstr ""
+
+#: progress_bar.php:154
+msgid "Enter values for graph - value, title and color."
+msgstr ""
+
+#: progress_bar.php:157
+msgid "Development"
+msgstr ""
+
+#: progress_bar.php:161
+msgid "Design"
+msgstr ""
+
+#: progress_bar.php:165
+msgid "Marketing"
+msgstr ""
+
+#: progress_bar.php:172
+msgid "Label"
+msgstr ""
+
+#: progress_bar.php:174
+msgid "Enter text used as title of bar."
+msgstr ""
+
+#: progress_bar.php:179
+msgid "Value"
+msgstr ""
+
+#: progress_bar.php:181
+msgid "Enter value of bar."
+msgstr ""
+
+#: progress_bar.php:186
+msgid "Custom color"
+msgstr ""
+
+#: progress_bar.php:188
+msgid "Select custom single bar background color."
+msgstr ""
+
+#: progress_bar.php:193
+msgid "Custom text color"
+msgstr ""
+
+#: progress_bar.php:195
+msgid "Select custom single bar text color."
+msgstr ""
+
+#: progress_bar.php:200
+msgid "Counter text color"
+msgstr ""
+
+#: progress_bar.php:202
+msgid "Select counter text color."
+msgstr ""
+
+#: progress_bar.php:207
+msgid "Counter background color"
+msgstr ""
+
+#: progress_bar.php:209
+msgid "Select counter background color."
+msgstr ""
+
+#: progress_bar.php:216
+msgid "Units"
+msgstr ""
+
+#: progress_bar.php:218
+msgid ""
+"Enter measurement units (Example: %, px, points, etc. Note: graph value and "
+"units will be appended to graph title)."
+msgstr ""
+
+#: progress_bar.php:245
+msgid "Title Letter Spacing"
+msgstr ""
+
+#: progress_bar.php:247
+msgid "Enter title letter spacing, the value in pixels."
+msgstr ""
+
+#: simple_tabs.php:150
+msgid "Simple Tabs"
+msgstr ""
+
+#: simple_tabs.php:156 tabs.php:165
+msgid "Tabbed content"
+msgstr ""
+
+#: simple_tabs.php:167 tabs.php:176
+msgid "Tab Title"
+msgstr ""
+
+#: simple_tabs.php:184 tabs.php:193
+msgid "Tab Text Size"
+msgstr ""
+
+#: simple_tabs.php:192 tabs.php:201
+msgid "Tab font color"
+msgstr ""
+
+#: simple_tabs.php:200 tabs.php:209
+msgid "Tab font active color"
+msgstr ""
+
+#: simple_tabs.php:203
+msgid "Choose text active color"
+msgstr ""
+
+#: simple_tabs.php:208 tabs.php:217
+msgid "Tab color"
+msgstr ""
+
+#: simple_tabs.php:211
+msgid "Choose tab color"
+msgstr ""
+
+#: simple_tabs.php:245 tabs.php:262
+msgid "Tab 1"
+msgstr ""
+
+#: simple_tabs.php:246 tabs.php:263
+msgid "Tab 2"
+msgstr ""
+
+#: simple_tabs.php:254 tabs.php:271
+msgid "Section"
+msgstr ""
+
+#: simple_tabs.php:268 tabs.php:285
+msgid "Tab ID"
+msgstr ""
+
+#: tabs.php:158
+msgid "Tabs"
+msgstr ""
+
+#: tabs.php:212 tabs.php:228 tabs.php:244
+msgid "Choose icon active color"
+msgstr ""
+
+#: tabs.php:225
+msgid "Tab active color"
+msgstr ""
+
+#: tabs.php:241
+msgid "Icon active color"
+msgstr ""
+
+#: testimonial.php:131
+msgid "Testimonial"
+msgstr ""
+
+#: testimonial.php:177
+msgid "Sub-title"
+msgstr ""
+
+#: testimonial.php:184
+msgid "Sub-title color"
+msgstr ""
+
+#: testimonial.php:187
+msgid "Choose sub-title color"
+msgstr ""
+
+#: testimonial.php:192
+msgid "Title & Sub-title border color"
+msgstr ""
+
+#: testimonial.php:199
+msgid "Image"
+msgstr ""
+
+#: testimonial.php:223
+msgid "Icon background color"
+msgstr ""
+
+#: testimonial.php:226
+msgid "Choose icon background color"
+msgstr ""
+
+#: testimonial.php:231
+msgid "Icon hover background color"
+msgstr ""
+
+#: testimonial.php:234
+msgid "Choose icon hover background color"
+msgstr ""
+
+#: testimonial.php:239
+msgid "Icon & Image Border color"
+msgstr ""
+
+#: testimonial.php:250
+msgid "Provide the content for this testimonial."
+msgstr ""
+
+#: underline_text.php:164
+msgid "Underline Text"
+msgstr ""
+
+#: underline_text.php:182
+msgid "Add link to custom heading."
+msgstr ""
+
+#: underline_text.php:195
+msgid "Select element tag."
+msgstr ""
+
+#: underline_text.php:196
+msgid "Select text alignment."
+msgstr ""
+
+#: underline_text.php:197
+msgid "Enter font size."
+msgstr ""
+
+#: underline_text.php:198
+msgid "Enter line height."
+msgstr ""
+
+#: underline_text.php:199
+msgid "Select heading color."
+msgstr ""
+
+#: underline_text.php:206
+msgid "Link Hover color"
+msgstr ""
+
+#: underline_text.php:209
+msgid "The options is available only with link."
+msgstr ""
+
+#: underline_text.php:236
+msgid "Underline Height"
+msgstr ""
