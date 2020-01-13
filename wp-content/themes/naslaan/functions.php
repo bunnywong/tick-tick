@@ -148,5 +148,18 @@ function naslaan_nav_menu_walker() {
 		require_once get_template_directory() . '/functions/front_menu_walker.php';
 		new naslaan_nav_menu_walker();
 		new naslaan_nav_mobmenu_walker();
-	
+
 }
+
+/* CUSTOM FUNCTION */
+function naslaan_widgets_header_news_bar() {
+  register_sidebar( array(
+      'name' => __( 'Header news bar', 'header_news_bar' ),
+      'id' => 'header-news-bar',
+      'before_widget' => '<div>',
+      'after_widget' => '</div>',
+      'before_title' => '<h1>',
+      'after_title' => '</h1>',
+  ) );
+}
+add_action( 'widgets_init', 'naslaan_widgets_header_news_bar' );

@@ -10,6 +10,8 @@ if( naslaan_helpers::naslaan_unyson_check() ) {
 if($header_types=='left'){
 	if($navigation_left_variants=='variant_1'){
 		get_template_part('includes/header/left-header-variant-1');
+    // Add header news widget
+    if ( !function_exists('dynamic_sidebar') || !dynamic_sidebar('header-news-bar') ) : endif;
 	}elseif($navigation_left_variants=='variant_2'){
 		get_template_part('includes/header/left-header-variant-2');
 	}elseif($navigation_left_variants=='variant_3'){
