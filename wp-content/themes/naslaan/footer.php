@@ -306,7 +306,7 @@ if( naslaan_helpers::naslaan_unyson_check() ) {
                     <p>Copyright © 2019 tickcopy.com</p>
                     <p class="p1"><span class="s1"><b>风险警告</b>: 交易外汇和杠杆金融工具涉及重大风险，并可能导致您投资资本的损失。 您不应投资超过承受的损失，并应确保您完全了解所涉及的风险。 交易杠杆产品可能并不适合所有投资者。 在交易之前，请考虑您的经验水平，投资目标并在必要时寻求独立的财务建议。 客户有责任根据其居住国家/地区的法律要求，确定是否允许其使用 Tickcopy Limited 的服务。</span></p>
                     <p class="p3"><span class="s1"><b>区域限制:</b> Tickcopy Limited 不接受美国，加拿大，苏丹，叙利亚，朝鲜，英国，以色列和伊朗伊斯兰共和国居民的申请。 本网站上的信息并不针对任何分布或使用违反当地法律或法规的国家或地区的居民。</span></p>
-                    <p class="p3"><span class="s1">Tickcopy.com 由 Tickcopy Limited拥有并运营。 客户必须年满18岁才能使用 Tickcopy Limited 服务。</span></p>
+                    <p class="p3"><span class="s1">Tickcopy.com 由 Tickcopy Limited 拥有并运营。 客户必须年满18岁才能使用 Tickcopy Limited 服务。</span></p>
                   <?php endif; ?>
                 </div>
               </div>
