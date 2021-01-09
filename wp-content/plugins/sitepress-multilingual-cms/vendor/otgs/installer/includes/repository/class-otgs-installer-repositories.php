@@ -33,13 +33,14 @@ class OTGS_Installer_Repositories {
 
 			$setting_repositories = $this->installer->get_repositories();
 
+			$api_url = isset($setting_repositories[ $id ]['api-url']) ? $setting_repositories[ $id ]['api-url'] : null;
 			$packages             = $this->get_packages( $repository );
 			$repositories[] = $this->repository_factory->create_repository( array(
 					'id'            => $id,
 					'subscription'  => $subscription,
 					'packages'      => $packages,
 					'product_name'  => $repository['data']['product-name'],
-					'api_url'       => $setting_repositories[ $id ]['api-url'],
+					'api_url'       => $api_url
 				)
 			);
 		}
@@ -108,7 +109,7 @@ class OTGS_Installer_Repositories {
 	}
 
 	public function refresh( $bypass_bucket = false ) {
-		$this->installer->refresh_repositories_data( $bypass_bucket );
+		return $this->installer->refresh_repositories_data( $bypass_bucket );
 	}
 
 	public function save_subscription( OTGS_Installer_Repository $repository ) {

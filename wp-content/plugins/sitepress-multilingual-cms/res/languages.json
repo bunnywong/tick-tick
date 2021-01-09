@@ -14,7 +14,7 @@
             "Slovak": "Angli\u010dtina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0391\u03b3\u03b3\u03bb\u03b9\u03ba\u03b1",
+            "Greek": "\u0391\u03b3\u03b3\u03bb\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -23,7 +23,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05e0\u05d2\u05dc\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Engleski",
+            "Croatian": "engleski",
             "Hungarian": "angol",
             "Armenian": "",
             "Indonesian": "",
@@ -65,7 +65,8 @@
             "Chinese (Traditional)": "\u82f1\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": "Ingilis"
         }
     },
     "Spanish": {
@@ -83,7 +84,7 @@
             "Slovak": "\u0160paniel\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0399\u03c3\u03c0\u03b1\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u0399\u03c3\u03c0\u03b1\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -134,7 +135,8 @@
             "Chinese (Traditional)": "\u897f\u73ed\u7259\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "German": {
@@ -152,7 +154,7 @@
             "Slovak": "Nem\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u0393\u03b5\u03c1\u03bc\u03b1\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -161,7 +163,7 @@
             "Irish": "",
             "Hebrew": "\u05d2\u05e8\u05de\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Njema\u010dki",
+            "Croatian": "njema\u010dki",
             "Hungarian": "n\u00e9met",
             "Armenian": "",
             "Indonesian": "",
@@ -203,7 +205,8 @@
             "Chinese (Traditional)": "\u5fb7\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "French": {
@@ -221,7 +224,7 @@
             "Slovak": "Franc\u00faz\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0393\u03b1\u03bb\u03bb\u03b9\u03ba\u03b1",
+            "Greek": "\u0393\u03b1\u03bb\u03bb\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -230,7 +233,7 @@
             "Irish": "",
             "Hebrew": "\u05e6\u05e8\u05e4\u05ea\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Francuzi",
+            "Croatian": "francuski",
             "Hungarian": "francia",
             "Armenian": "",
             "Indonesian": "",
@@ -272,7 +275,8 @@
             "Chinese (Traditional)": "\u6cd5\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Arabic": {
@@ -290,7 +294,7 @@
             "Slovak": "Arab\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03b1",
+            "Greek": "\u0391\u03c1\u03b1\u03b2\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -299,7 +303,7 @@
             "Irish": "",
             "Hebrew": "\u05e2\u05e8\u05d1\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Arapski",
+            "Croatian": "arapski",
             "Hungarian": "arab",
             "Armenian": "",
             "Indonesian": "",
@@ -341,7 +345,8 @@
             "Chinese (Traditional)": "\u963f\u62c9\u4f2f\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Bosnian": {
@@ -359,7 +364,7 @@
             "Slovak": "Bosnia\u010dtina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0392\u03bf\u03c3\u03bd\u03b9\u03b1\u03ba\u03b1",
+            "Greek": "\u0392\u03bf\u03c3\u03bd\u03b9\u03b1\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -368,7 +373,7 @@
             "Irish": "",
             "Hebrew": "\u05d1\u05d5\u05e1\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Bosanski",
+            "Croatian": "bosanski",
             "Hungarian": "bosny\u00e1k",
             "Armenian": "",
             "Indonesian": "",
@@ -410,7 +415,8 @@
             "Chinese (Traditional)": "\u6ce2\u58eb\u5c3c\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Bulgarian": {
@@ -428,7 +434,7 @@
             "Slovak": "Bulhar\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0392\u03bf\u03c5\u03bb\u03b3\u03b1\u03c1\u03b9\u03ba\u03b1",
+            "Greek": "\u0392\u03bf\u03c5\u03bb\u03b3\u03b1\u03c1\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -437,7 +443,7 @@
             "Irish": "",
             "Hebrew": "\u05d1\u05d5\u05dc\u05d2\u05e8\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Bugarski",
+            "Croatian": "bugarski",
             "Hungarian": "bolg\u00e1r",
             "Armenian": "",
             "Indonesian": "",
@@ -479,7 +485,8 @@
             "Chinese (Traditional)": "\u4fdd\u52a0\u5229\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Catalan": {
@@ -497,7 +504,7 @@
             "Slovak": "Katal\u00e1n\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039a\u03b1\u03c4\u03b1\u03bb\u03b1\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u039a\u03b1\u03c4\u03b1\u03bb\u03b1\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -506,7 +513,7 @@
             "Irish": "",
             "Hebrew": "\u05e7\u05d8\u05dc\u05d0\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Katalonski",
+            "Croatian": "katalonski",
             "Hungarian": "katal\u00e1n",
             "Armenian": "",
             "Indonesian": "",
@@ -548,7 +555,8 @@
             "Chinese (Traditional)": "\u52a0\u6cf0\u7f85\u5c3c\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Czech": {
@@ -566,7 +574,7 @@
             "Slovak": "\u010ce\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a4\u03c3\u03b5\u03c7\u03b9\u03ba\u03b7",
+            "Greek": "\u03a4\u03c3\u03b5\u03c7\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -617,7 +625,8 @@
             "Chinese (Traditional)": "\u6377\u514b\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Slovak": {
@@ -635,7 +644,7 @@
             "Slovak": "Sloven\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a3\u03bb\u03b1\u03b2\u03b9\u03ba\u03b7",
+            "Greek": "\u03a3\u03bb\u03b1\u03b2\u03b9\u03ba\u03ae",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -644,8 +653,8 @@
             "Irish": "",
             "Hebrew": "\u05e1\u05dc\u05d0\u05d1\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Slovak",
-            "Hungarian": "szl\u00e1v",
+            "Croatian": "slova\u010dki",
+            "Hungarian": "szlov\u00e1k",
             "Armenian": "",
             "Indonesian": "",
             "Icelandic": "",
@@ -686,7 +695,8 @@
             "Chinese (Traditional)": "\u65af\u62c9\u592b\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Welsh": {
@@ -704,7 +714,7 @@
             "Slovak": "Wel\u0161tina",
             "Welsh": "Cymraeg",
             "Danish": "",
-            "Greek": "Welsh",
+            "Greek": "\u004f\u03c5\u03b1\u03bb\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -713,7 +723,7 @@
             "Irish": "",
             "Hebrew": "\u05d5\u05d5\u05dc\u05e9\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Vel\u0161ki",
+            "Croatian": "vel\u0161ki",
             "Hungarian": "vels",
             "Armenian": "",
             "Indonesian": "",
@@ -755,7 +765,8 @@
             "Chinese (Traditional)": "\u5a01\u723e\u58eb\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Danish": {
@@ -773,7 +784,7 @@
             "Slovak": "D\u00e1n\u010dina",
             "Welsh": "",
             "Danish": "Dansk",
-            "Greek": "\u0394\u03b1\u03bd\u03b5\u03b6\u03b9\u03ba\u03b1",
+            "Greek": "\u0394\u03b1\u03bd\u03ad\u03b6\u03b9\u03ba\u03b1",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -782,7 +793,7 @@
             "Irish": "",
             "Hebrew": "\u05d3\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Danski",
+            "Croatian": "danski",
             "Hungarian": "d\u00e1n",
             "Armenian": "",
             "Indonesian": "",
@@ -824,7 +835,8 @@
             "Chinese (Traditional)": "\u4e39\u9ea5\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Greek": {
@@ -842,7 +854,7 @@
             "Slovak": "Gr\u00e9\u010dtina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u0395\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -851,7 +863,7 @@
             "Irish": "",
             "Hebrew": "\u05d9\u05d5\u05d5\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Gr\u010dki",
+            "Croatian": "gr\u010dki",
             "Hungarian": "g\u00f6r\u00f6g",
             "Armenian": "",
             "Indonesian": "",
@@ -893,7 +905,8 @@
             "Chinese (Traditional)": "\u5e0c\u81d8\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Esperanto": {
@@ -911,7 +924,7 @@
             "Slovak": "Esperanto",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0395\u03c3\u03c0\u03b5\u03c1\u03b1\u03bd\u03c4\u03bf",
+            "Greek": "\u0395\u03c3\u03c0\u03b5\u03c1\u03ac\u03bd\u03c4\u03bf",
             "Esperanto": "Esperanta",
             "Estonian": "",
             "Basque": "",
@@ -920,7 +933,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05e1\u05e4\u05e8\u05e0\u05d8\u05d5",
             "Hindi": "",
-            "Croatian": "Esperanto",
+            "Croatian": "esperanto",
             "Hungarian": "eszperant\u00f3",
             "Armenian": "",
             "Indonesian": "",
@@ -962,7 +975,8 @@
             "Chinese (Traditional)": "\u4e16\u754c\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Estonian": {
@@ -980,7 +994,7 @@
             "Slovak": "Est\u00f3n\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0395\u03c3\u03b8\u03bf\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u0395\u03c3\u03b8\u03bf\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "Eesti",
             "Basque": "",
@@ -989,7 +1003,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05e1\u05d8\u05d5\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Estonski",
+            "Croatian": "estonski",
             "Hungarian": "\u00e9szt",
             "Armenian": "",
             "Indonesian": "",
@@ -1031,7 +1045,8 @@
             "Chinese (Traditional)": "\u611b\u6c99\u5c3c\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Basque": {
@@ -1049,7 +1064,7 @@
             "Slovak": "Baski\u010dtina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0392\u03b1\u03c3\u03ba\u03b9\u03ba\u03b1",
+            "Greek": "\u0392\u03b1\u03c3\u03ba\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "Euskara",
@@ -1058,7 +1073,7 @@
             "Irish": "",
             "Hebrew": "\u05d1\u05e1\u05e7\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Baskijski",
+            "Croatian": "baskijski",
             "Hungarian": "baszk",
             "Armenian": "",
             "Indonesian": "",
@@ -1100,7 +1115,8 @@
             "Chinese (Traditional)": "\u5df4\u65af\u514b\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Persian": {
@@ -1118,7 +1134,7 @@
             "Slovak": "Perz\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a0\u03b5\u03c1\u03c3\u03b9\u03ba\u03bf\u03c2",
+            "Greek": "\u03a0\u03b5\u03c1\u03c3\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1127,7 +1143,7 @@
             "Irish": "",
             "Hebrew": "\u05e4\u05e8\u05e1\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Perzijski",
+            "Croatian": "perzijski",
             "Hungarian": "perzsa",
             "Armenian": "",
             "Indonesian": "",
@@ -1169,7 +1185,8 @@
             "Chinese (Traditional)": "\u6ce2\u65af\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Finnish": {
@@ -1187,7 +1204,7 @@
             "Slovak": "F\u00edn\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03b7",
+            "Greek": "\u03a6\u03b9\u03bd\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1196,7 +1213,7 @@
             "Irish": "",
             "Hebrew": "\u05e4\u05d9\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Finski",
+            "Croatian": "finski",
             "Hungarian": "finn",
             "Armenian": "",
             "Indonesian": "",
@@ -1238,7 +1255,8 @@
             "Chinese (Traditional)": "\u82ac\u862d\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Irish": {
@@ -1256,7 +1274,7 @@
             "Slovak": "\u00cdr\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03b1",
+            "Greek": "\u0399\u03c1\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1265,7 +1283,7 @@
             "Irish": "Gaeilge",
             "Hebrew": "\u05d0\u05d9\u05e8\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Irci",
+            "Croatian": "irski",
             "Hungarian": "\u00edr",
             "Armenian": "",
             "Indonesian": "",
@@ -1307,7 +1325,8 @@
             "Chinese (Traditional)": "\u611b\u723e\u862d\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Hebrew": {
@@ -1325,7 +1344,7 @@
             "Slovak": "Hebrej\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0395\u03b2\u03c1\u03b1\u03b9\u03ba\u03b1",
+            "Greek": "\u0395\u03b2\u03c1\u03b1\u03ca\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1334,7 +1353,7 @@
             "Irish": "",
             "Hebrew": "\u05e2\u05d1\u05e8\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Hebrejski",
+            "Croatian": "hebrejski",
             "Hungarian": "h\u00e9ber",
             "Armenian": "",
             "Indonesian": "",
@@ -1376,7 +1395,8 @@
             "Chinese (Traditional)": "\u5e0c\u4f2f\u4f86\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Hindi": {
@@ -1394,7 +1414,7 @@
             "Slovak": "Hind\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0399\u03bd\u03b4\u03b9\u03ba\u03b1",
+            "Greek": "\u0399\u03bd\u03b4\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1403,7 +1423,7 @@
             "Irish": "",
             "Hebrew": "\u05d4\u05d5\u05d3\u05d9\u05ea",
             "Hindi": "\u0939\u093f\u0928\u094d\u0926\u0940",
-            "Croatian": "Hindski",
+            "Croatian": "hindski",
             "Hungarian": "hindi",
             "Armenian": "",
             "Indonesian": "",
@@ -1445,7 +1465,8 @@
             "Chinese (Traditional)": "\u5370\u5730\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Croatian": {
@@ -1463,7 +1484,7 @@
             "Slovak": "Chorv\u00e1t\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039a\u03c1\u03bf\u03b1\u03c4\u03b9\u03ba\u03b1",
+            "Greek": "\u039a\u03c1\u03bf\u03b1\u03c4\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1472,7 +1493,7 @@
             "Irish": "",
             "Hebrew": "\u05e7\u05e8\u05d5\u05d8\u05d0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Hrvatski",
+            "Croatian": "hrvatski",
             "Hungarian": "horv\u00e1t",
             "Armenian": "",
             "Indonesian": "",
@@ -1514,7 +1535,8 @@
             "Chinese (Traditional)": "\u514b\u7f85\u5730\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Hungarian": {
@@ -1532,7 +1554,7 @@
             "Slovak": "Ma\u010far\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039f\u03c5\u03b3\u03b3\u03c1\u03b9\u03ba\u03b1",
+            "Greek": "\u039f\u03c5\u03b3\u03b3\u03c1\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1541,7 +1563,7 @@
             "Irish": "",
             "Hebrew": "\u05d4\u05d5\u05e0\u05d2\u05e8\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Ma\u0111arski",
+            "Croatian": "ma\u0111arski",
             "Hungarian": "Magyar",
             "Armenian": "",
             "Indonesian": "",
@@ -1583,7 +1605,8 @@
             "Chinese (Traditional)": "\u5308\u7259\u5229\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Armenian": {
@@ -1601,7 +1624,7 @@
             "Slovak": "Arm\u00e9n\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0391\u03c1\u03bc\u03b5\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u0391\u03c1\u03bc\u03ad\u03bd\u03b9\u03ba\u03b1",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1610,7 +1633,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05e8\u05de\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Armenac",
+            "Croatian": "armenski",
             "Hungarian": "\u00f6rm\u00e9ny",
             "Armenian": "\u0540\u0561\u0575\u0565\u0580\u0565\u0576",
             "Indonesian": "",
@@ -1652,7 +1675,8 @@
             "Chinese (Traditional)": "\u4e9e\u7f8e\u5c3c\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Indonesian": {
@@ -1670,7 +1694,7 @@
             "Slovak": "Indon\u00e9z\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0399\u03bd\u03b4\u03bf\u03bd\u03b7\u03c3\u03b9\u03b1\u03ba\u03b1",
+            "Greek": "\u0399\u03bd\u03b4\u03bf\u03bd\u03b7\u03c3\u03b9\u03b1\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1679,7 +1703,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05d9\u05e0\u05d3\u05d5\u05e0\u05d6\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Indonezijski",
+            "Croatian": "indonezijski",
             "Hungarian": "indon\u00e9z",
             "Armenian": "",
             "Indonesian": "Indonesia",
@@ -1721,7 +1745,8 @@
             "Chinese (Traditional)": "\u5370\u5c3c\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Icelandic": {
@@ -1739,7 +1764,7 @@
             "Slovak": "Islan\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0399\u03c3\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03b1",
+            "Greek": "\u0399\u03c3\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1748,7 +1773,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05d9\u05e1\u05dc\u05e0\u05d3\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Islandski",
+            "Croatian": "islandski",
             "Hungarian": "izlandi",
             "Armenian": "",
             "Indonesian": "",
@@ -1790,7 +1815,8 @@
             "Chinese (Traditional)": "\u51b0\u5cf6\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Italian": {
@@ -1808,7 +1834,7 @@
             "Slovak": "Talian\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03b1",
+            "Greek": "\u0399\u03c4\u03b1\u03bb\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1817,7 +1843,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05d9\u05d8\u05dc\u05e7\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Talijanski",
+            "Croatian": "talijanski",
             "Hungarian": "olasz",
             "Armenian": "",
             "Indonesian": "",
@@ -1859,7 +1885,8 @@
             "Chinese (Traditional)": "\u7fa9\u5927\u5229\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Japanese": {
@@ -1877,7 +1904,7 @@
             "Slovak": "Japon\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0399\u03b1\u03c0\u03c9\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u0399\u03b1\u03c0\u03c9\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1886,7 +1913,7 @@
             "Irish": "",
             "Hebrew": "\u05d9\u05e4\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Japanski",
+            "Croatian": "japanski",
             "Hungarian": "jap\u00e1n",
             "Armenian": "",
             "Indonesian": "",
@@ -1928,7 +1955,8 @@
             "Chinese (Traditional)": "\u65e5\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Korean": {
@@ -1946,7 +1974,7 @@
             "Slovak": "K\u00f3rej\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039a\u03bf\u03c1\u03b5\u03b1\u03c4\u03b9\u03ba\u03b1",
+            "Greek": "\u039a\u03bf\u03c1\u03b5\u03ac\u03c4\u03b9\u03ba\u03b1",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -1955,7 +1983,7 @@
             "Irish": "",
             "Hebrew": "\u05e7\u05d5\u05e8\u05d0\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Korejski",
+            "Croatian": "korejski",
             "Hungarian": "koreai",
             "Armenian": "",
             "Indonesian": "",
@@ -1997,7 +2025,8 @@
             "Chinese (Traditional)": "\u97d3\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Kurdish": {
@@ -2015,7 +2044,7 @@
             "Slovak": "Kurd\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039a\u03bf\u03c5\u03c1\u03b4\u03b9\u03ba\u03b1",
+            "Greek": "\u039a\u03bf\u03c5\u03c1\u03b4\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2024,7 +2053,7 @@
             "Irish": "",
             "Hebrew": "\u05db\u05d5\u05e8\u05d3\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Kurdski",
+            "Croatian": "kurdski",
             "Hungarian": "kurd",
             "Armenian": "",
             "Indonesian": "",
@@ -2066,7 +2095,8 @@
             "Chinese (Traditional)": "\u5eab\u723e\u5fb7\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Latvian": {
@@ -2084,7 +2114,7 @@
             "Slovak": "Loty\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039b\u03b5\u03c4\u03bf\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u039b\u03b5\u03c4\u03bf\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2093,7 +2123,7 @@
             "Irish": "",
             "Hebrew": "\u05dc\u05d8\u05d1\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Letonski",
+            "Croatian": "latvijski",
             "Hungarian": "lett",
             "Armenian": "",
             "Indonesian": "",
@@ -2135,7 +2165,8 @@
             "Chinese (Traditional)": "\u62c9\u812b\u7dad\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Lithuanian": {
@@ -2153,7 +2184,7 @@
             "Slovak": "Litov\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039b\u03b9\u03b8\u03bf\u03c5\u03b1\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u039b\u03b9\u03b8\u03bf\u03c5\u03b1\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2162,7 +2193,7 @@
             "Irish": "",
             "Hebrew": "\u05dc\u05d9\u05d8\u05d0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Litvanski",
+            "Croatian": "litavski",
             "Hungarian": "litv\u00e1n",
             "Armenian": "",
             "Indonesian": "",
@@ -2172,7 +2203,7 @@
             "Korean": "\ub9ac\ud22c\uc544\ub2c8\uc544\uc5b4",
             "Kurdish": "",
             "Latvian": "",
-            "Lithuanian": "Lietuvos",
+            "Lithuanian": "Lietuvių",
             "Macedonian": "",
             "Maltese": "",
             "Mongolian": "",
@@ -2204,7 +2235,8 @@
             "Chinese (Traditional)": "\u7acb\u9676\u5b9b\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Macedonian": {
@@ -2222,7 +2254,7 @@
             "Slovak": "Maced\u00f3n\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03b9\u03ba\u03bf",
+            "Greek": "\u039c\u03b1\u03ba\u03b5\u03b4\u03bf\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2231,7 +2263,7 @@
             "Irish": "",
             "Hebrew": "\u05de\u05e7\u05d3\u05d5\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Makedonski",
+            "Croatian": "makedonski",
             "Hungarian": "maced\u00f3n",
             "Armenian": "",
             "Indonesian": "",
@@ -2273,7 +2305,8 @@
             "Chinese (Traditional)": "\u99ac\u5176\u9813\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Maltese": {
@@ -2291,7 +2324,7 @@
             "Slovak": "Malt\u00e9z\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039c\u03b1\u03bb\u03c4\u03b5\u03b6\u03b9\u03ba\u03b1",
+            "Greek": "\u039c\u03b1\u03bb\u03c4\u03ad\u03b6\u03b9\u03ba\u03b1",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2300,7 +2333,7 @@
             "Irish": "",
             "Hebrew": "\u05de\u05dc\u05d8\u05d6\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Malte\u0161ki",
+            "Croatian": "malte\u0161ki",
             "Hungarian": "m\u00e1ltai",
             "Armenian": "",
             "Indonesian": "",
@@ -2342,7 +2375,8 @@
             "Chinese (Traditional)": "\u99ac\u723e\u4ed6\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Mongolian": {
@@ -2360,7 +2394,7 @@
             "Slovak": "Mongol\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039c\u03bf\u03b3\u03b3\u03bf\u03bb\u03b9\u03ba\u03b1",
+            "Greek": "\u039c\u03bf\u03b3\u03b3\u03bf\u03bb\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2369,7 +2403,7 @@
             "Irish": "",
             "Hebrew": "\u05de\u05d5\u05e0\u05d2\u05d5\u05dc\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Mongolski",
+            "Croatian": "mongolski",
             "Hungarian": "mongol",
             "Armenian": "",
             "Indonesian": "",
@@ -2411,7 +2445,8 @@
             "Chinese (Traditional)": "\u8499\u53e4\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Nepali": {
@@ -2429,7 +2464,7 @@
             "Slovak": "Nep\u00e1l\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039d\u03b5\u03c0\u03b1\u03bb\u03b9",
+            "Greek": "\u039d\u03b5\u03c0\u03b1\u03bb\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2438,7 +2473,7 @@
             "Irish": "",
             "Hebrew": "\u05e0\u05e4\u05d0\u05dc\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Nepalski",
+            "Croatian": "nepali",
             "Hungarian": "nep\u00e1li",
             "Armenian": "",
             "Indonesian": "",
@@ -2480,7 +2515,8 @@
             "Chinese (Traditional)": "\u5c3c\u6cca\u723e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Dutch": {
@@ -2498,7 +2534,7 @@
             "Slovak": "Holand\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03b1",
+            "Greek": "\u039f\u03bb\u03bb\u03b1\u03bd\u03b4\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2507,7 +2543,7 @@
             "Irish": "",
             "Hebrew": "\u05d4\u05d5\u05dc\u05e0\u05d3\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Holandski",
+            "Croatian": "nizozemski",
             "Hungarian": "holland",
             "Armenian": "",
             "Indonesian": "",
@@ -2549,7 +2585,8 @@
             "Chinese (Traditional)": "\u8377\u862d\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Norwegian Bokm\u00e5l": {
@@ -2567,7 +2604,7 @@
             "Slovak": "N\u00f3rsky jazyk Bokm\u00e5l",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039d\u03bf\u03c1\u03b2\u03b7\u03b3\u03b9\u03ba\u03b1",
+            "Greek": "\u039d\u03bf\u03c1\u03b2\u03b7\u03b3\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2576,7 +2613,7 @@
             "Irish": "",
             "Hebrew": "\u05e0\u05d5\u05e8\u05d5\u05d5\u05d2\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Knji\u017eevni norve\u0161ki",
+            "Croatian": "knji\u017eevni norve\u0161ki",
             "Hungarian": "norv\u00e9g bokm\u00e5l",
             "Armenian": "",
             "Indonesian": "",
@@ -2618,7 +2655,8 @@
             "Chinese (Traditional)": "\u632a\u5a01\u5e03\u514b\u83ab\u723e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Punjabi": {
@@ -2636,7 +2674,7 @@
             "Slovak": "Pand\u017e\u00e1b\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "Panjabi",
+            "Greek": "\u03a0\u03b1\u03bd\u03c4\u03b6\u03ac\u03bc\u03c0\u03b9",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2645,7 +2683,7 @@
             "Irish": "",
             "Hebrew": "\u05e4\u05e0\u05d2'\u05d0\u05d1\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Pend\u017eabljanin",
+            "Croatian": "pend\u017eabljanin",
             "Hungarian": "pandzs\u00e1bi",
             "Armenian": "",
             "Indonesian": "",
@@ -2687,7 +2725,8 @@
             "Chinese (Traditional)": "\u65c1\u906e\u666e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Polish": {
@@ -2705,7 +2744,7 @@
             "Slovak": "Pol\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a0\u03bf\u03bb\u03c9\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u03a0\u03bf\u03bb\u03c9\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2714,7 +2753,7 @@
             "Irish": "",
             "Hebrew": "\u05e4\u05d5\u05dc\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Poljski",
+            "Croatian": "poljski",
             "Hungarian": "lengyel",
             "Armenian": "",
             "Indonesian": "",
@@ -2756,7 +2795,8 @@
             "Chinese (Traditional)": "\u6ce2\u862d\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Portuguese, Portugal": {
@@ -2774,7 +2814,7 @@
             "Slovak": "Portugal\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a0\u03bf\u03c1\u03c4\u03bf\u03b3\u03b1\u03bb\u03b9\u03ba\u03b1",
+            "Greek": "\u03a0\u03bf\u03c1\u03c4\u03bf\u03b3\u03b1\u03bb\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2783,7 +2823,7 @@
             "Irish": "",
             "Hebrew": "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d2\u05d6\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Portugalski (Portugal)",
+            "Croatian": "portugalski (Portugal)",
             "Hungarian": "portug\u00e1l",
             "Armenian": "",
             "Indonesian": "",
@@ -2825,7 +2865,8 @@
             "Chinese (Traditional)": "\u8461\u8404\u7259\u8a9e\uff08\u8461\u8404\u7259\uff09",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Portuguese, Brazil": {
@@ -2843,7 +2884,7 @@
             "Slovak": "Braz\u00edlska Portugal\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a0\u03bf\u03c1\u03c4\u03bf\u03b3\u03b1\u03bb\u03b9\u03ba\u03b1",
+            "Greek": "\u03a0\u03bf\u03c1\u03c4\u03bf\u03b3\u03b1\u03bb\u03b9\u03ba\u03ac \u0392\u03c1\u03b1\u03b6\u03b9\u03bb\u03af\u03b1\u03c2",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2852,7 +2893,7 @@
             "Irish": "",
             "Hebrew": "\u05e4\u05d5\u05e8\u05d8\u05d5\u05d2\u05d6\u05d9\u05ea - \u05d1\u05e8\u05d6\u05d9\u05dc",
             "Hindi": "",
-            "Croatian": "Portugalski (Brazil)",
+            "Croatian": "portugalski (Brazil)",
             "Hungarian": "brazil",
             "Armenian": "",
             "Indonesian": "",
@@ -2894,7 +2935,8 @@
             "Chinese (Traditional)": "\u8461\u8404\u7259\u8a9e\uff08\u5df4\u897f\uff09",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Quechua": {
@@ -2912,7 +2954,7 @@
             "Slovak": "Jazyk Quechua",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039a\u03b5\u03c4\u03c3\u03bf\u03c5\u03b1",
+            "Greek": "\u039a\u03ad\u03c4\u03c3\u03bf\u03c5\u03b1",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2921,7 +2963,7 @@
             "Irish": "",
             "Hebrew": "\u05e7\u05e6'\u05d5\u05d0\u05d4",
             "Hindi": "",
-            "Croatian": "Quechua",
+            "Croatian": "quechua",
             "Hungarian": "quechua",
             "Armenian": "",
             "Indonesian": "",
@@ -2963,7 +3005,8 @@
             "Chinese (Traditional)": "\u84cb\u4e18\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Romanian": {
@@ -2981,7 +3024,7 @@
             "Slovak": "Rumun\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a1\u03bf\u03c5\u03bc\u03b1\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u03a1\u03bf\u03c5\u03bc\u03b1\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -2990,7 +3033,7 @@
             "Irish": "",
             "Hebrew": "\u05e8\u05d5\u05de\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Rumunjski",
+            "Croatian": "rumunjski",
             "Hungarian": "rom\u00e1n",
             "Armenian": "",
             "Indonesian": "",
@@ -3032,7 +3075,8 @@
             "Chinese (Traditional)": "\u7f85\u99ac\u5c3c\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Russian": {
@@ -3050,7 +3094,7 @@
             "Slovak": "Ru\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a1\u03c9\u03c3\u03b9\u03ba\u03b1",
+            "Greek": "\u03a1\u03c9\u03c3\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3059,7 +3103,7 @@
             "Irish": "",
             "Hebrew": "\u05e8\u05d5\u05e1\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Ruski",
+            "Croatian": "ruski",
             "Hungarian": "orosz",
             "Armenian": "",
             "Indonesian": "",
@@ -3101,7 +3145,8 @@
             "Chinese (Traditional)": "\u4fc4\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Slovenian": {
@@ -3119,7 +3164,7 @@
             "Slovak": "Slovin\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a3\u03bb\u03bf\u03b2\u03b5\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u03a3\u03bb\u03bf\u03b2\u03b5\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3128,7 +3173,7 @@
             "Irish": "",
             "Hebrew": "\u05e1\u05dc\u05d5\u05d1\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Slovenac",
+            "Croatian": "slovenski",
             "Hungarian": "szlov\u00e9n",
             "Armenian": "",
             "Indonesian": "",
@@ -3170,7 +3215,8 @@
             "Chinese (Traditional)": "\u65af\u6d1b\u6587\u5c3c\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Somali": {
@@ -3188,7 +3234,7 @@
             "Slovak": "Som\u00e1l\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "Somali",
+            "Greek": "\u03a3\u03bf\u03bc\u03b1\u03bb\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3197,7 +3243,7 @@
             "Irish": "",
             "Hebrew": "\u05e1\u05d5\u05de\u05dc\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Somalijski",
+            "Croatian": "somalski",
             "Hungarian": "szom\u00e1li",
             "Armenian": "",
             "Indonesian": "",
@@ -3239,7 +3285,8 @@
             "Chinese (Traditional)": "\u7d22\u99ac\u91cc\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Albanian": {
@@ -3257,7 +3304,7 @@
             "Slovak": "Alb\u00e1n\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0391\u03bb\u03b2\u03b1\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u0391\u03bb\u03b2\u03b1\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3266,7 +3313,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05dc\u05d1\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Albanac",
+            "Croatian": "albanski",
             "Hungarian": "alb\u00e1n",
             "Armenian": "",
             "Indonesian": "",
@@ -3308,7 +3355,8 @@
             "Chinese (Traditional)": "\u963f\u723e\u5df4\u5c3c\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Serbian": {
@@ -3326,7 +3374,7 @@
             "Slovak": "Srb\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a3\u03b5\u03c1\u03b2\u03b9\u03ba\u03b1",
+            "Greek": "\u03a3\u03b5\u03c1\u03b2\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3335,7 +3383,7 @@
             "Irish": "",
             "Hebrew": "\u05e1\u05e8\u05d1\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Srpski",
+            "Croatian": "srpski",
             "Hungarian": "szerb",
             "Armenian": "",
             "Indonesian": "",
@@ -3377,7 +3425,8 @@
             "Chinese (Traditional)": "\u8cfd\u723e\u7dad\u4e9e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Swedish": {
@@ -3395,7 +3444,7 @@
             "Slovak": "\u0160v\u00e9d\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a3\u03bf\u03c5\u03b7\u03b4\u03b9\u03ba\u03b7",
+            "Greek": "\u03a3\u03bf\u03c5\u03b7\u03b4\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3446,7 +3495,8 @@
             "Chinese (Traditional)": "\u745e\u5178\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Tamil": {
@@ -3464,7 +3514,7 @@
             "Slovak": "Tamil\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a4\u03b1\u03bc\u03b9\u03bb",
+            "Greek": "\u03a4\u03b1\u03bc\u03af\u03bb",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3473,7 +3523,7 @@
             "Irish": "",
             "Hebrew": "\u05d8\u05de\u05d9\u05dc\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Tamil",
+            "Croatian": "tamil",
             "Hungarian": "tamil",
             "Armenian": "",
             "Indonesian": "",
@@ -3515,7 +3565,8 @@
             "Chinese (Traditional)": "\u6cf0\u7c73\u723e\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Thai": {
@@ -3533,7 +3584,7 @@
             "Slovak": "Thaj\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "Thai",
+            "Greek": "\u03a4\u03b1\u03ca\u03bb\u03b1\u03bd\u03b4\u03ad\u03b6\u03b9\u03ba\u03b1",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3542,7 +3593,7 @@
             "Irish": "",
             "Hebrew": "\u05ea\u05d0\u05d9\u05dc\u05e0\u05d3\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Thai",
+            "Croatian": "thai",
             "Hungarian": "t\u00e1jf\u00f6ldi",
             "Armenian": "",
             "Indonesian": "",
@@ -3584,7 +3635,8 @@
             "Chinese (Traditional)": "\u6cf0\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Turkish": {
@@ -3602,7 +3654,7 @@
             "Slovak": "Ture\u010dtina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u03a4\u03bf\u03c5\u03c1\u03ba\u03b9\u03ba\u03b1",
+            "Greek": "\u03a4\u03bf\u03c5\u03c1\u03ba\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3611,7 +3663,7 @@
             "Irish": "",
             "Hebrew": "\u05ea\u05d5\u05e8\u05db\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Turski",
+            "Croatian": "turski",
             "Hungarian": "t\u00f6r\u00f6k",
             "Armenian": "",
             "Indonesian": "",
@@ -3653,7 +3705,8 @@
             "Chinese (Traditional)": "\u571f\u8033\u5176\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Ukrainian": {
@@ -3671,7 +3724,7 @@
             "Slovak": "Ukrajin\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03b9\u03ba\u03b1",
+            "Greek": "\u039f\u03c5\u03ba\u03c1\u03b1\u03bd\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3680,7 +3733,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05d5\u05e7\u05e8\u05d0\u05d9\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Ukrajinski",
+            "Croatian": "ukrajinski",
             "Hungarian": "ukr\u00e1n",
             "Armenian": "",
             "Indonesian": "",
@@ -3712,7 +3765,7 @@
             "Tamil": "",
             "Thai": "\u0e22\u0e39\u0e40\u0e04\u0e23\u0e19",
             "Turkish": "Ukraynaca",
-            "Ukrainian": "",
+            "Ukrainian": "Українська",
             "Urdu": "",
             "Uzbek": "",
             "Vietnamese": "",
@@ -3722,7 +3775,8 @@
             "Chinese (Traditional)": "\u70cf\u514b\u862d\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Urdu": {
@@ -3740,7 +3794,7 @@
             "Slovak": "Urd\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039f\u03c5\u03c1\u03bd\u03c4\u03bf\u03c5",
+            "Greek": "\u039f\u03cd\u03c1\u03bd\u03c4\u03bf\u03c5",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3749,7 +3803,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05d5\u05e8\u05d3\u05d5",
             "Hindi": "",
-            "Croatian": "Urdu",
+            "Croatian": "urdski",
             "Hungarian": "urdu",
             "Armenian": "",
             "Indonesian": "",
@@ -3791,7 +3845,8 @@
             "Chinese (Traditional)": "\u70cf\u723e\u90fd\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Uzbek": {
@@ -3809,7 +3864,7 @@
             "Slovak": "Uzbek\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039f\u03c5\u03b6\u03bc\u03c0\u03b5\u03ba\u03b9\u03ba\u03b1",
+            "Greek": "\u039f\u03c5\u03b6\u03bc\u03c0\u03b5\u03ba\u03b9\u03ba\u03ac",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3818,7 +3873,7 @@
             "Irish": "",
             "Hebrew": "\u05d0\u05d5\u05d6\u05d1\u05e7\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Uzbe\u010dki",
+            "Croatian": "uzbe\u010dki",
             "Hungarian": "\u00fczb\u00e9g",
             "Armenian": "",
             "Indonesian": "",
@@ -3860,7 +3915,8 @@
             "Chinese (Traditional)": "\u70cf\u8332\u5225\u514b\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Vietnamese": {
@@ -3878,7 +3934,7 @@
             "Slovak": "Vietnam\u010dina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0392\u03b9\u03b5\u03c4\u03bd\u03b1\u03bc\u03b5\u03b6\u03b9\u03ba\u03b1",
+            "Greek": "\u0392\u03b9\u03b5\u03c4\u03bd\u03b1\u03bc\u03ad\u03b6\u03b9\u03ba\u03b1",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3887,7 +3943,7 @@
             "Irish": "",
             "Hebrew": "\u05d5\u05d9\u05d9\u05d8\u05e0\u05d0\u05de\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Vijetnamski",
+            "Croatian": "vijetnamski",
             "Hungarian": "vietn\u00e1mi",
             "Armenian": "",
             "Indonesian": "",
@@ -3929,7 +3985,8 @@
             "Chinese (Traditional)": "\u8d8a\u5357\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Yiddish": {
@@ -3947,7 +4004,7 @@
             "Slovak": "Jidi\u0161",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0393\u03b9\u03bd\u03c4\u03b9\u03c2",
+            "Greek": "\u0393\u03af\u03bd\u03c4\u03b9\u03c2",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -3956,7 +4013,7 @@
             "Irish": "",
             "Hebrew": "\u05d9\u05d9\u05d3\u05d9\u05e9",
             "Hindi": "",
-            "Croatian": "Jidi\u0161",
+            "Croatian": "jidi\u0161",
             "Hungarian": "jiddis",
             "Armenian": "",
             "Indonesian": "",
@@ -3998,7 +4055,8 @@
             "Chinese (Traditional)": "\u4f9d\u5730\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Chinese (Simplified)": {
@@ -4016,7 +4074,7 @@
             "Slovak": "Zjednodu\u0161en\u00e1 \u010c\u00edn\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03b1 (\u0391\u03c0\u03bb\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03b1)",
+            "Greek": "\u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ac \u0028\u0391\u03c0\u03bb\u03bf\u03c0\u03bf\u03b9\u03b7\u03bc\u03ad\u03bd\u03b1\u0029",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -4025,7 +4083,7 @@
             "Irish": "",
             "Hebrew": "\u05e1\u05d9\u05e0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Kineski (pojednostavljeni)",
+            "Croatian": "kineski (pojednostavljeni)",
             "Hungarian": "egyszer\u0171s\u00edtett k\u00ednai",
             "Armenian": "",
             "Indonesian": "",
@@ -4067,7 +4125,8 @@
             "Chinese (Traditional)": "\u7c21\u9ad4\u4e2d\u6587",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Zulu": {
@@ -4085,7 +4144,7 @@
             "Slovak": "Jazyk Zulu",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u0396\u03bf\u03c5\u03bb\u03bf\u03c5",
+            "Greek": "\u0396\u03bf\u03c5\u03bb\u03bf\u03cd",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -4094,7 +4153,7 @@
             "Irish": "",
             "Hebrew": "\u05d6\u05d5\u05dc\u05d5 ",
             "Hindi": "",
-            "Croatian": "Zulu",
+            "Croatian": "zulu",
             "Hungarian": "zulu",
             "Armenian": "",
             "Indonesian": "",
@@ -4136,7 +4195,8 @@
             "Chinese (Traditional)": "\u7956\u9b6f\u8a9e",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Chinese (Traditional)": {
@@ -4154,7 +4214,7 @@
             "Slovak": "Tradi\u010dn\u00e1 \u010c\u00edn\u0161tina",
             "Welsh": "",
             "Danish": "",
-            "Greek": "\u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03b1 (\u03a0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03ac)",
+            "Greek": "\u039a\u03b9\u03bd\u03b5\u03b6\u03b9\u03ba\u03ac \u0028\u03a0\u03b1\u03c1\u03b1\u03b4\u03bf\u03c3\u03b9\u03b1\u03ba\u03ac\u0029",
             "Esperanto": "",
             "Estonian": "",
             "Basque": "",
@@ -4163,7 +4223,7 @@
             "Irish": "",
             "Hebrew": "\u05e1\u05d9\u05e0\u05d9\u05ea \u05de\u05e1\u05d5\u05e8\u05ea\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Kineski (tradicionalni)",
+            "Croatian": "kineski (tradicionalni)",
             "Hungarian": "hagyom\u00e1nyos k\u00ednai",
             "Armenian": "",
             "Indonesian": "",
@@ -4205,7 +4265,8 @@
             "Chinese (Traditional)": "\u7e41\u9ad4\u4e2d\u6587",
             "Malay": "",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Malay": {
@@ -4232,7 +4293,7 @@
             "Irish": "",
             "Hebrew": "\u05de\u05dc\u05d0\u05d9\u05ea",
             "Hindi": "",
-            "Croatian": "Malajski",
+            "Croatian": "malajski",
             "Hungarian": "",
             "Armenian": "",
             "Indonesian": "",
@@ -4274,7 +4335,8 @@
             "Chinese (Traditional)": "",
             "Malay": "Melayu",
             "Galician": "",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Galician": {
@@ -4343,7 +4405,8 @@
             "Chinese (Traditional)": "",
             "Malay": "",
             "Galician": "Galego",
-            "Bengali": ""
+            "Bengali": "",
+            "Azerbaijani": ""
         }
     },
     "Bengali": {
@@ -4412,7 +4475,78 @@
             "Chinese (Traditional)": "",
             "Malay": "",
             "Galician": "",
-            "Bengali": "\u0939\u093f\u0928\u094d\u0926\u0940"
+            "Bengali": "\u0939\u093f\u0928\u094d\u0926\u0940",
+            "Azerbaijani": ""
+        }
+    },
+    "Azerbaijani": {
+        "major": 0,
+        "tr": {
+            "English": "Azerbaijani",
+            "Spanish": "Azer\u00ed",
+            "German": "Aserbeidschanisch",
+            "French": "Az\u00e9ri",
+            "Arabic": "\u0627\u0644\u0623\u0630\u0631\u0628\u064a\u062c\u0627\u0646\u064a\u0629",
+            "Bosnian": "",
+            "Bulgarian": "",
+            "Catalan": "",
+            "Czech": "",
+            "Slovak": "",
+            "Welsh": "",
+            "Danish": "",
+            "Greek": "",
+            "Esperanto": "",
+            "Estonian": "",
+            "Basque": "",
+            "Persian": "",
+            "Finnish": "",
+            "Irish": "",
+            "Hebrew": "\u05d0\u05d6\u05e8\u05d1\u05d9\u05d2'\u05e0\u05d9\u05ea",
+            "Hindi": "",
+            "Croatian": "",
+            "Hungarian": "",
+            "Armenian": "",
+            "Indonesian": "",
+            "Icelandic": "",
+            "Italian": "Azerbaigiano",
+            "Japanese": "\u30a2\u30bc\u30eb\u30d0\u30a4\u30b8\u30e3\u30f3\u8a9e",
+            "Korean": "",
+            "Kurdish": "",
+            "Latvian": "",
+            "Lithuanian": "",
+            "Macedonian": "",
+            "Maltese": "",
+            "Mongolian": "",
+            "Nepali": "",
+            "Dutch": "",
+            "Norwegian Bokm\u00e5l": "",
+            "Punjabi": "",
+            "Polish": "azerski",
+            "Portuguese, Portugal": "Azerbaijano",
+            "Portuguese, Brazil": "Azerbaijano",
+            "Quechua": "",
+            "Romanian": "",
+            "Russian": "\u0410\u0437\u0435\u0440\u0431\u0430\u0439\u0434\u0436\u0430\u043d\u0441\u043a\u0438\u0439",
+            "Slovenian": "",
+            "Somali": "",
+            "Albanian": "",
+            "Serbian": "",
+            "Swedish": "",
+            "Tamil": "",
+            "Thai": "",
+            "Turkish": "",
+            "Ukrainian": "",
+            "Urdu": "",
+            "Uzbek": "",
+            "Vietnamese": "",
+            "Yiddish": "",
+            "Chinese (Simplified)": "\u963f\u585e\u62dc\u7586\u8bed",
+            "Zulu": "",
+            "Chinese (Traditional)": "",
+            "Malay": "",
+            "Galician": "",
+            "Bengali": "",
+            "Azerbaijani": "Az\u0259rbaycan"
         }
     }
 }
